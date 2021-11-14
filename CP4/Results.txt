@@ -1,0 +1,495 @@
+student ID 1251
+right answers 20 wrong answers 30
+Total answered 50
+Ommited: 0
+grade is 40
+More wrong than right answers
+correct percentage: 0.400
+less than 10 ommited
+*******************************************
+student ID 1234
+right answers 20 wrong answers 20
+Total answered 40
+Ommited: 10
+grade is 40
+Same number of right and wrong answers
+correct percentage: 0.500
+10 or more ommited
+*******************************************
+student ID 1235
+right answers 15 wrong answers 15
+Total answered 30
+Ommited: 20
+grade is 30
+Same number of right and wrong answers
+correct percentage: 0.500
+10 or more ommited
+*******************************************
+student ID 1236
+right answers 10 wrong answers 15
+Total answered 25
+Ommited: 25
+grade is 20
+More wrong than right answers
+correct percentage: 0.400
+10 or more ommited
+*******************************************
+student ID 1237
+right answers 14 wrong answers 18
+Total answered 32
+Ommited: 18
+grade is 28
+More wrong than right answers
+correct percentage: 0.438
+10 or more ommited
+*******************************************
+student ID 1238
+right answers 20 wrong answers 11
+Total answered 31
+Ommited: 19
+grade is 40
+More right than wrong answers
+correct percentage: 0.645
+10 or more ommited
+*******************************************
+student ID 1239
+right answers 23 wrong answers 5
+Total answered 28
+Ommited: 22
+grade is 46
+More right than wrong answers
+correct percentage: 0.821
+10 or more ommited
+*******************************************
+student ID 1240
+right answers 0 wrong answers 25
+Total answered 25
+Ommited: 25
+grade is 0
+More wrong than right answers
+correct percentage: 0.000
+10 or more ommited
+*******************************************
+student ID 1241
+right answers 0 wrong answers 50
+Total answered 50
+Ommited: 0
+grade is 0
+More wrong than right answers
+correct percentage: 0.000
+less than 10 ommited
+*******************************************
+student ID 1242
+right answers 25 wrong answers 0
+Total answered 25
+Ommited: 25
+grade is 50
+More right than wrong answers
+correct percentage: 1.000
+10 or more ommited
+*******************************************
+student ID 1243
+right answers 15 wrong answers 0
+Total answered 15
+Ommited: 35
+grade is 30
+More right than wrong answers
+correct percentage: 1.000
+10 or more ommited
+*******************************************
+student ID 1244
+right answers 50 wrong answers 0
+Total answered 50
+Ommited: 0
+grade is 100
+More right than wrong answers
+correct percentage: 1.000
+less than 10 ommited
+*******************************************
+student ID 1245
+right answers 34 wrong answers 0
+Total answered 34
+Ommited: 16
+grade is 68
+More right than wrong answers
+correct percentage: 1.000
+10 or more ommited
+*******************************************
+student ID 1246
+right answers 30 wrong answers 0
+Total answered 30
+Ommited: 20
+grade is 60
+More right than wrong answers
+correct percentage: 1.000
+10 or more ommited
+*******************************************
+student ID 1247
+right answers 5 wrong answers 0
+Total answered 5
+Ommited: 45
+grade is 10
+More right than wrong answers
+correct percentage: 1.000
+10 or more ommited
+*******************************************
+student ID 1248
+right answers 0 wrong answers 5
+Total answered 5
+Ommited: 45
+grade is 0
+More wrong than right answers
+correct percentage: 0.000
+10 or more ommited
+*******************************************
+student ID 1249
+right answers 25 wrong answers 25
+Total answered 50
+Ommited: 0
+grade is 50
+Same number of right and wrong answers
+correct percentage: 0.500
+less than 10 ommited
+*******************************************
+student ID 1250
+right answers 30 wrong answers 20
+Total answered 50
+Ommited: 0
+grade is 60
+More right than wrong answers
+correct percentage: 0.600
+less than 10 ommited
+*******************************************
+student ID 1251
+right answers 20 wrong answers 30
+Total answered 50
+Ommited: 0
+grade is 40
+More wrong than right answers
+correct percentage: 0.400
+less than 10 ommited
+*******************************************
+student ID 1234
+right answers 20 wrong answers 20
+Total answered 40
+Ommited: 10
+grade is 40
+Same number of right and wrong answers
+correct percentage: 0.500
+10 or more ommited
+*******************************************
+student ID 1235
+right answers 15 wrong answers 15
+Total answered 30
+Ommited: 20
+grade is 30
+Same number of right and wrong answers
+correct percentage: 0.500
+10 or more ommited
+*******************************************
+student ID 1236
+right answers 10 wrong answers 15
+Total answered 25
+Ommited: 25
+grade is 20
+More wrong than right answers
+correct percentage: 0.400
+10 or more ommited
+*******************************************
+student ID 1237
+right answers 14 wrong answers 18
+Total answered 32
+Ommited: 18
+grade is 28
+More wrong than right answers
+correct percentage: 0.438
+10 or more ommited
+*******************************************
+student ID 1238
+right answers 20 wrong answers 11
+Total answered 31
+Ommited: 19
+grade is 40
+More right than wrong answers
+correct percentage: 0.645
+10 or more ommited
+*******************************************
+student ID 1239
+right answers 23 wrong answers 5
+Total answered 28
+Ommited: 22
+grade is 46
+More right than wrong answers
+correct percentage: 0.821
+10 or more ommited
+*******************************************
+student ID 1240
+right answers 0 wrong answers 25
+Total answered 25
+Ommited: 25
+grade is 0
+More wrong than right answers
+correct percentage: 0.000
+10 or more ommited
+*******************************************
+student ID 1241
+right answers 0 wrong answers 50
+Total answered 50
+Ommited: 0
+grade is 0
+More wrong than right answers
+correct percentage: 0.000
+less than 10 ommited
+*******************************************
+student ID 1242
+right answers 25 wrong answers 0
+Total answered 25
+Ommited: 25
+grade is 50
+More right than wrong answers
+correct percentage: 1.000
+10 or more ommited
+*******************************************
+student ID 1243
+right answers 15 wrong answers 0
+Total answered 15
+Ommited: 35
+grade is 30
+More right than wrong answers
+correct percentage: 1.000
+10 or more ommited
+*******************************************
+student ID 1244
+right answers 50 wrong answers 0
+Total answered 50
+Ommited: 0
+grade is 100
+More right than wrong answers
+correct percentage: 1.000
+less than 10 ommited
+*******************************************
+student ID 1245
+right answers 34 wrong answers 0
+Total answered 34
+Ommited: 16
+grade is 68
+More right than wrong answers
+correct percentage: 1.000
+10 or more ommited
+*******************************************
+student ID 1246
+right answers 30 wrong answers 0
+Total answered 30
+Ommited: 20
+grade is 60
+More right than wrong answers
+correct percentage: 1.000
+10 or more ommited
+*******************************************
+student ID 1247
+right answers 5 wrong answers 0
+Total answered 5
+Ommited: 45
+grade is 10
+More right than wrong answers
+correct percentage: 1.000
+10 or more ommited
+*******************************************
+student ID 1248
+right answers 0 wrong answers 5
+Total answered 5
+Ommited: 45
+grade is 0
+More wrong than right answers
+correct percentage: 0.000
+10 or more ommited
+*******************************************
+student ID 1249
+right answers 25 wrong answers 25
+Total answered 50
+Ommited: 0
+grade is 50
+Same number of right and wrong answers
+correct percentage: 0.500
+less than 10 ommited
+*******************************************
+student ID 1250
+right answers 30 wrong answers 20
+Total answered 50
+Ommited: 0
+grade is 60
+More right than wrong answers
+correct percentage: 0.600
+less than 10 ommited
+*******************************************
+student ID 1251
+right answers 20 wrong answers 30
+Total answered 50
+Ommited: 0
+grade is 40
+More wrong than right answers
+correct percentage: 0.400
+less than 10 ommited
+*******************************************
+student ID 1234
+right answers 20 wrong answers 20
+Total answered 40
+Ommited: 10
+grade is 40
+Same number of right and wrong answers
+correct percentage: 0.500
+10 or more ommited
+*******************************************
+student ID 1235
+right answers 15 wrong answers 15
+Total answered 30
+Ommited: 20
+grade is 30
+Same number of right and wrong answers
+correct percentage: 0.500
+10 or more ommited
+*******************************************
+student ID 1236
+right answers 10 wrong answers 15
+Total answered 25
+Ommited: 25
+grade is 20
+More wrong than right answers
+correct percentage: 0.400
+10 or more ommited
+*******************************************
+student ID 1237
+right answers 14 wrong answers 18
+Total answered 32
+Ommited: 18
+grade is 28
+More wrong than right answers
+correct percentage: 0.438
+10 or more ommited
+*******************************************
+student ID 1238
+right answers 20 wrong answers 11
+Total answered 31
+Ommited: 19
+grade is 40
+More right than wrong answers
+correct percentage: 0.645
+10 or more ommited
+*******************************************
+student ID 1239
+right answers 23 wrong answers 5
+Total answered 28
+Ommited: 22
+grade is 46
+More right than wrong answers
+correct percentage: 0.821
+10 or more ommited
+*******************************************
+student ID 1240
+right answers 0 wrong answers 25
+Total answered 25
+Ommited: 25
+grade is 0
+More wrong than right answers
+correct percentage: 0.000
+10 or more ommited
+*******************************************
+student ID 1241
+right answers 0 wrong answers 50
+Total answered 50
+Ommited: 0
+grade is 0
+More wrong than right answers
+correct percentage: 0.000
+less than 10 ommited
+*******************************************
+student ID 1242
+right answers 25 wrong answers 0
+Total answered 25
+Ommited: 25
+grade is 50
+More right than wrong answers
+correct percentage: 1.000
+10 or more ommited
+*******************************************
+student ID 1243
+right answers 15 wrong answers 0
+Total answered 15
+Ommited: 35
+grade is 30
+More right than wrong answers
+correct percentage: 1.000
+10 or more ommited
+*******************************************
+student ID 1244
+right answers 50 wrong answers 0
+Total answered 50
+Ommited: 0
+grade is 100
+More right than wrong answers
+correct percentage: 1.000
+less than 10 ommited
+*******************************************
+student ID 1245
+right answers 34 wrong answers 0
+Total answered 34
+Ommited: 16
+grade is 68
+More right than wrong answers
+correct percentage: 1.000
+10 or more ommited
+*******************************************
+student ID 1246
+right answers 30 wrong answers 0
+Total answered 30
+Ommited: 20
+grade is 60
+More right than wrong answers
+correct percentage: 1.000
+10 or more ommited
+*******************************************
+student ID 1247
+right answers 5 wrong answers 0
+Total answered 5
+Ommited: 45
+grade is 10
+More right than wrong answers
+correct percentage: 1.000
+10 or more ommited
+*******************************************
+student ID 1248
+right answers 0 wrong answers 5
+Total answered 5
+Ommited: 45
+grade is 0
+More wrong than right answers
+correct percentage: 0.000
+10 or more ommited
+*******************************************
+student ID 1249
+right answers 25 wrong answers 25
+Total answered 50
+Ommited: 0
+grade is 50
+Same number of right and wrong answers
+correct percentage: 0.500
+less than 10 ommited
+*******************************************
+student ID 1250
+right answers 30 wrong answers 20
+Total answered 50
+Ommited: 0
+grade is 60
+More right than wrong answers
+correct percentage: 0.600
+less than 10 ommited
+*******************************************
+student ID 1251
+right answers 20 wrong answers 30
+Total answered 50
+Ommited: 0
+grade is 40
+More wrong than right answers
+correct percentage: 0.400
+less than 10 ommited
+*******************************************

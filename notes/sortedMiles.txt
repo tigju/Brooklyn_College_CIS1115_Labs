@@ -1,0 +1,9 @@
+Overall average is: 354.44 
+Greater than average: 3 
+Equal to average: 0 
+Less than average: 2 
+George 477.70
+Pauline 367.40
+Julia 350.20
+Mitch 298.65
+Miguel 278.25
